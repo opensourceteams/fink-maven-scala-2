@@ -2,6 +2,7 @@
 - 微信:thinktothings
 - 微博:https://weibo.com/thinktothings
 - Flink版本为1.7.2
+- 由于这个项目名称写错了(本项目不再更新)：本项目迁移到: https://github.com/opensourceteams/flink-maven-scala
 
 ###  查看jar中文件列表
 ```aidl
